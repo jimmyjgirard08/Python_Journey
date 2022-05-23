@@ -3,6 +3,7 @@ day = input('Day of the week: ')
 adj = input('Adjective: ')
 adj2 = input('Adjective: ')
 
-PositiveThoughts = f"Hello {name}, I hope you have a {adj} {day}. Remember to protect your mental health, and journal daily {name}. Go be {adj2.upper()}!. "
+PositiveThoughts = f"Hello {name}, I hope you have a {adj} {day}. Remember to protect your mental health, and journal daily {name}. \
+Let your unique awesomeness and positive energy inspire confidence in others. Go be {adj2.upper()}!. "
 
 print(PositiveThoughts)
