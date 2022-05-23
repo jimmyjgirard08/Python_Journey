@@ -1,3 +1,5 @@
+# This is a Positive Thoughts Mad Lib
+
 name = input('Your name: ')
 day = input('Day of the week: ')
 adj = input('Adjective: ')
